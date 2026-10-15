@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.log
+_dev.pid
+_s.pid
